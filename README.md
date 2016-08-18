@@ -3,9 +3,9 @@
 --- 
 Este projeto visa testar o conhecimento dos programadores **Android** que estão na fase de seleção da [Kiddo Labs](www.kiddolabs.com).
 
-<div style="text-align:center">
+<p align="center">
 	<img src="img/android.png">
-</div>
+</p>
 
 
 ### Instruções para a entrega do desafio
